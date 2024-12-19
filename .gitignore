@@ -6,6 +6,7 @@
 *.dylib
 *.test
 *.out
+cmd/dbmaro/dbmaro
 
 # Go specific
 *.o
